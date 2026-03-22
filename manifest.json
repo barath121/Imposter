@@ -1,0 +1,18 @@
+
+{
+  "name": "Imposter Reveal",
+  "short_name": "Imposter",
+  "description": "Find the hidden imposter among you.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0a0f1d",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2592/2592317.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
